@@ -37,7 +37,6 @@ The number of agents considered are 10,000 and the average degree of contact in 
 
 ![alt text](images/result.png)
 
-
 ![alt text](images/result2.png)
 
 
