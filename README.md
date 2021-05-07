@@ -31,7 +31,7 @@ Considering that individuals can make certain mistakes with limited rationality 
 
 ![alt text](images/Femi.png)
 
-## RESULTS
+## Results
 
 The number of agents considered are 10,000 and the average degree of contact in the network is 8. The transmission probability is 0.4 for the adults between 18-45 and the recovery probability is 0.6, as the recovery for healthy adult for Covid-19 is high. The model is run for 1,000 time steps and for Cv values between 0 to 1. The proportion of infected individuals decreases as the effectiveness increases, and the proportion of vaccinated individuals increases. We can see that the effectiveness rate is 0.5-06, the proportion of infected persons is the lowest, and the proportion of individual vaccinated is the highest.
 
